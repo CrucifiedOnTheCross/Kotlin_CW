@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "fullName": "Иван Петров",
+        "phone": "+7 927 111-22-33",
+        "carNumber": "А123ВС163",
+        "carModel": "Toyota Camry",
+        "serviceType": "COMPLEX_WASH",
+        "visitCount": 5,
+        "totalSpent": 6250.0,
+        "lastVisitDate": "2026-05-20",
+        "discountPercent": 5
+    },
+    {
+        "id": 2,
+        "fullName": "Анна Соколова",
+        "phone": "+7 927 222-33-44",
+        "carNumber": "В456ОР163",
+        "carModel": "Kia Rio",
+        "serviceType": "BASIC_WASH",
+        "visitCount": 2,
+        "totalSpent": 1800.0,
+        "lastVisitDate": "2026-05-25",
+        "discountPercent": 0
+    },
+    {
+        "id": 3,
+        "fullName": "Сергей Никитин",
+        "phone": "+7 927 333-44-55",
+        "carNumber": "Е789КХ163",
+        "carModel": "BMW X5",
+        "serviceType": "DETAILING",
+        "visitCount": 7,
+        "totalSpent": 23800.0,
+        "lastVisitDate": "2026-05-27",
+        "discountPercent": 10
+    }
+]
